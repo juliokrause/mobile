@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="image_from_camera">Image from camera</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="nome">Nome:</string>
+    <string name="preco">Preço:</string>
+    <string name="adicione_um_produto">Adicione um produto</string>
+    <string name="preco_do_produto">Preço do Produto</string>
+    <string name="editar_nome_do_produto">Editar nome do produto</string>
+    <string name="editar_pre_o_do_produto">Editar preço do produto</string>
+    <string name="nome_do_produto">Nome do produto</string>
+    <string name="confirmar_edi_o">Confirmar edição</string>
+    <string name="todo">TODO</string>
+    <string name="pre_o_do_produto">Preço do Produto</string>
+    <string name="adicionar">Adicionar</string>
+</resources>
